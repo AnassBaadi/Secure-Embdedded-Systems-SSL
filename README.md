@@ -79,5 +79,3 @@ The system includes real-time sensor data transmission (temperature/humidity via
 - **Wokwi Simulation**: PCAP files validate traffic patterns without physical hardware.  
 
 ---
-
-## Repository Structure  
